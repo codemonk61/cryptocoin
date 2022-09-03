@@ -13,7 +13,6 @@
 .table-wrapper{
     background-color: #fff;
     font-size: 13px;
-    
     position:absolute;
     top:30%;
     left:20%;
@@ -37,6 +36,10 @@ table{
 }
 .mobile-view{
     display: none;
+}
+footer{
+
+    background-color: red;
 }
 
 @media (max-width:998px){
